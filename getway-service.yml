@@ -1,5 +1,3 @@
-
-
 eureka :
   instance:
    client:
@@ -11,7 +9,10 @@ eureka :
 
 
 
+spring:
+  application:
+    name: getway-service
+ 
 server:
   port: 8070
-
 
